@@ -1,1 +1,2 @@
 # Image-Captioning
+This project is an interesting multi modal topic where we will combine both image and text processing to build a useful Deep Learning application, aka Image Captioning. Image Captioning refers to the process of generating textual description from an image – based on the objects and actions in the image. This project is done using Flicker8k Dataset which has many potential applications in real life.
